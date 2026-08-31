@@ -67,6 +67,9 @@ print(classification_rep)
 
 
 <H3>Output:</H3>
+<img width="803" height="545" alt="image" src="https://github.com/user-attachments/assets/67a4e7d6-d747-4c03-ba50-1d789595470e" />
+
+<img width="665" height="313" alt="image" src="https://github.com/user-attachments/assets/d4a94b25-b628-4c93-8907-fa0a107eede9" />
 
 
 
